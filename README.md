@@ -1,6 +1,6 @@
 # PSSM
 
-Ce repository contient :
+Ce dossier contient :
 
 *Un fichier matricePSSM.py qui contient quatre fonctions :
 -matricePSSM(alignement, norm=False):
