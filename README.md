@@ -3,6 +3,7 @@
 Ce dossier contient :
 
 *Un fichier matricePSSM.py qui contient quatre fonctions :
+
 -matricePSSM(alignement, norm=False):
     """
     Prend en entrée un fichier d'alignement MUSCLE (.align).
@@ -37,16 +38,19 @@ Ce dossier contient :
     17            V
     18            W
     19            Y
+ 
  -afficherMatricePSSM(matrice_PSSM, nligne, ncol)
     """
     Prend en entrée une matrice, son nombre de lignes et de colonnes.
     Affiche la matrice en entier
     """
+ 
  -remplissage_Dictionnaire_AA ()
     """
     Fonction qui construit un dictionnaire en attribuant à chaque lettre d'un acide aminé (clé) sa position dans la matrice PSSM (valeur)
     """
-  -infos_Alignement(alignement)
+ 
+ -infos_Alignement(alignement)
     """
     Prend en entrée un fichier d'alignement
     Retourne la longueure de l'alignement et le nombre de séquences sous forme de tableau
