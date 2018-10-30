@@ -58,5 +58,5 @@ Ce dossier contient :
         """
   Et une fonction main, qui permet de tester rapidement le code.  
 
-2.Deux fichiers différents (.malign) à mettre en arguments pour tester les code.
+2.Deux fichiers différents (.malign) à mettre en arguments pour tester le code.
   
