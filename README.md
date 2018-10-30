@@ -2,7 +2,7 @@
 
 Ce dossier contient :
 
-*Un fichier matricePSSM.py qui contient quatre fonctions :
+1.Un fichier matricePSSM.py qui contient quatre fonctions :
 
     -matricePSSM(alignement, norm=False):
         """
@@ -57,5 +57,6 @@ Ce dossier contient :
         Retourne la longueure de l'alignement et le nombre de séquences sous forme de tableau
         """
   Et une fonction main, qui permet de tester rapidement le code.  
-*Deux fichiers différents (.malign) à mettre en arguments pour tester les code.
+
+2.Deux fichiers différents (.malign) à mettre en arguments pour tester les code.
   
